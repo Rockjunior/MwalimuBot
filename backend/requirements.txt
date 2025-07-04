@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pydantic
+httpx
+stripe
+firebase-admin
+python-dotenv
+Pillow
+openai
+langchain
+pytesseract
+whisper 
+python-dotenv
